@@ -13,7 +13,7 @@
 
 ## 🌐 Socials
 <p>
-  <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/zahrrranabill_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://tiktok.com/@USERNAME"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok"/></a>
   <a href="https://youtube.com/@USERNAME"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/></a>
   <a href="mailto:EMAILKAMU"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
