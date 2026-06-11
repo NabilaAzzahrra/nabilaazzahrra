@@ -35,21 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NabilaAzzahrra&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NabilaAzzahrra&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NabilaAzzahrra&theme=tokyo-night" />
-</p>
-
----
-
 ## ✨ Highlight Projects
 - 🌐 **Portfolio Website** — https://nabilaazzahra.vercel.app/
 - 🏫 **SIRP Web App** — CodeIgniter-based academic system
